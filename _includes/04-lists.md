@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Boba
+2. Coffee
+3. Spicy Squid
+4. Yakult
